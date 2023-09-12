@@ -1,0 +1,3 @@
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/pioasm/CMakeFiles/rebuild_cache.dir

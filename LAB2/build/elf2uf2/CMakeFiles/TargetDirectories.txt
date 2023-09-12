@@ -1,0 +1,5 @@
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/elf2uf2/CMakeFiles/elf2uf2.dir
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/elf2uf2/CMakeFiles/edit_cache.dir
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+C:/Users/Cristian/Documents/CSUN/ECE520/520Assignments/sp23-e520-lab2-interfacing-rpi-Robles-C/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
